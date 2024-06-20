@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3967cb18.css",
+    "main.css": "/static/css/main.e5a0bdfc.css",
     "main.js": "/static/js/main.9f8158b0.js",
     "static/js/453.f4fbaa6d.chunk.js": "/static/js/453.f4fbaa6d.chunk.js",
     "static/media/mushrooms1.jpg": "/static/media/mushrooms1.045b99a77ff9b3c26636.jpg",
@@ -10,12 +10,12 @@
     "static/media/logo.jpg": "/static/media/logo.71afa79dc726213c3c8a.jpg",
     "static/media/jetbrainsLogo.svg": "/static/media/jetbrainsLogo.857ae61aea6eb7a9c846f6b55c60bc26.svg",
     "index.html": "/index.html",
-    "main.3967cb18.css.map": "/static/css/main.3967cb18.css.map",
+    "main.e5a0bdfc.css.map": "/static/css/main.e5a0bdfc.css.map",
     "main.9f8158b0.js.map": "/static/js/main.9f8158b0.js.map",
     "453.f4fbaa6d.chunk.js.map": "/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3967cb18.css",
+    "static/css/main.e5a0bdfc.css",
     "static/js/main.9f8158b0.js"
   ]
 }

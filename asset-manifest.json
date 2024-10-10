@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd6077e7.css",
-    "main.js": "/static/js/main.9e6cd9a0.js",
+    "main.js": "/static/js/main.7d1da630.js",
     "static/js/453.f4fbaa6d.chunk.js": "/static/js/453.f4fbaa6d.chunk.js",
     "static/media/path_animation.gif": "/static/media/path_animation.76ce416a5cb8b6a20386.gif",
     "static/media/mushrooms1.jpg": "/static/media/mushrooms1.045b99a77ff9b3c26636.jpg",
@@ -12,11 +12,11 @@
     "static/media/jetbrainsLogo.svg": "/static/media/jetbrainsLogo.857ae61aea6eb7a9c846f6b55c60bc26.svg",
     "index.html": "/index.html",
     "main.cd6077e7.css.map": "/static/css/main.cd6077e7.css.map",
-    "main.9e6cd9a0.js.map": "/static/js/main.9e6cd9a0.js.map",
+    "main.7d1da630.js.map": "/static/js/main.7d1da630.js.map",
     "453.f4fbaa6d.chunk.js.map": "/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd6077e7.css",
-    "static/js/main.9e6cd9a0.js"
+    "static/js/main.7d1da630.js"
   ]
 }
